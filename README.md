@@ -8,7 +8,8 @@ Dvwa - Damn Vulnerable Web Application is another deliberately insecure web appl
 
 Hackthissite - A site which provides challenges, CTFs, and more to improve your hacking skills.
 
-Defend the Web - Defend the Web is an interactive security platform where you can learn and challenge your skills.
+Defend the Web![image](https://user-images.githubusercontent.com/80440658/115764127-6d408700-a362-11eb-8133-7cea4cd1c761.png)
+ - Defend the Web is an interactive security platform where you can learn and challenge your skills. https://defendtheweb.net/
 
 Root-me - Another website which hosts challenges to test your hacking skills. https://www.root-me.org/?lang=en
 
