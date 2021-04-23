@@ -21,3 +21,7 @@ Ctftime - The de facto website for everything CTF related. https://ctftime.org/
 TryHackMe - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs. https://tryhackme.com/
 
 PicoCTF - Provides you with fun CTF challenges of varying levels of difficulty to practice on. https://picoctf.org/
+
+CTFLearn - https://ctflearn.com/
+
+CyberSec WTF - https://cybersecurity.wtf/
