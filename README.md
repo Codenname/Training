@@ -29,3 +29,9 @@ CyberSec WTF - https://cybersecurity.wtf/
 Reverse Learning - https://reverseengineering.stackexchange.com/questions/15774/crack-me-material
 
 Learn Regex - http://www.rexegg.com/regex-quickstart.html
+
+pwn.college
+
+CTFLearn
+
+CryptoHack
